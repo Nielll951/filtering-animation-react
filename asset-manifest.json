@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/filtering-animation-react/static/css/main.af9aafe5.css",
+    "main.js": "/filtering-animation-react/static/js/main.3cb4e7c2.js",
+    "static/js/787.e95f1bde.chunk.js": "/filtering-animation-react/static/js/787.e95f1bde.chunk.js",
+    "index.html": "/filtering-animation-react/index.html",
+    "main.af9aafe5.css.map": "/filtering-animation-react/static/css/main.af9aafe5.css.map",
+    "main.3cb4e7c2.js.map": "/filtering-animation-react/static/js/main.3cb4e7c2.js.map",
+    "787.e95f1bde.chunk.js.map": "/filtering-animation-react/static/js/787.e95f1bde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9aafe5.css",
+    "static/js/main.3cb4e7c2.js"
+  ]
+}
